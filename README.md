@@ -2,15 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Chatbot Project README</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 2em; background: #f9f9f9; line-height: 1.6; color: #333; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background: #eee; padding: 2px 5px; border-radius: 4px; }
-    pre { background: #eee; padding: 10px; border-radius: 6px; overflow-x: auto; }
-    ul { list-style: disc; padding-left: 20px; }
-    .code-block { background-color: #f4f4f4; padding: 10px; border-radius: 5px; }
-  </style>
+
 </head>
 <body>
 
